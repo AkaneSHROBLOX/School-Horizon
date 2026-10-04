@@ -1,0 +1,78 @@
+{
+  "prefix": null,
+  "theme": null,
+  "logs": {
+    "rolelog": "1483888531792461864",
+    "modlog": "1483905052295827599",
+    "voicelog": "1484244725291815044",
+    "messagelog": "1484245029081059369"
+  },
+  "antiraid": {},
+  "moderation": {},
+  "sanctions": {
+    "1553999513457401889": [
+      {
+        "type": "ban",
+        "reason": "Aucune raison",
+        "by": "695647783977222155",
+        "date": 1790969644467
+      }
+    ]
+  },
+  "mutes": {},
+  "whitelist": [],
+  "perms": {},
+  "badwords": [],
+  "customCommands": {},
+  "snipe": null,
+  "service": {},
+  "bureaux": {},
+  "forms": {
+    "1xbl4d": {
+      "title": "Candidature Modérateur",
+      "questions": [
+        "Quel est ton âge ?",
+        "Quel est ton pseudo Roblox ?",
+        "Présente-toi en quelques lignes.",
+        "As tu un pc ?",
+        "Pourquoi souhaites-tu rejoindre le staff de School Horizon FR ?",
+        "Quelles sont tes principales motivations ?",
+        "Pourquoi devrions-nous te recruter plutôt qu'un autre candidat ?",
+        "As-tu déjà eu de l'expérience en tant que modérateur ou membre d'un staff ? Si oui, détaille.",
+        "Selon toi, quelles sont les qualités d'un bon modérateur ?",
+        "Quels sont tes horaires de disponibilité ?",
+        "Qu'aimerais-tu apporter au staff de School Horizon FR ?",
+        "Pourquoi souhaites-tu modérer précisément un School RP ?",
+        "Y a-t-il quelque chose que tu aimerais ajouter pour appuyer ta candidature ?"
+      ],
+      "logChannelId": "1525588068466425887",
+      "label": "Modérateur",
+      "color": "rouge"
+    },
+    "sxkdu4": {
+      "title": "Candidature Support",
+      "questions": [
+        "1. Quel est ton âge ?",
+        "2. Quel est ton pseudo Discord ?",
+        "3. Présente-toi en quelques lignes.",
+        "4. Pourquoi souhaites-tu rejoindre l'équipe Support de School Horizon FR ?",
+        "5. Quelles sont tes principales motivations ?",
+        "6.Pourquoi devrions-nous te recruter plutôt qu'un autre candidat ?",
+        "7. As-tu déjà occupé un poste de support sur un autre serveur Discord ? Si oui, détaille ton expérience.",
+        "8. Selon toi, quelles sont les qualités d'un bon support ?",
+        "9. Quels sont tes horaires de disponibilité ?",
+        "10. Qu'aimerais-tu apporter à l'équipe Support de School Horizon FR ?",
+        "11. Y a-t-il quelque chose que tu aimerais ajouter pour appuyer ta candidature ?"
+      ],
+      "logChannelId": "1525588158597828750",
+      "label": "Support",
+      "color": "bleu"
+    }
+  },
+  "welcome": {
+    "channelId": "1483888254033072231",
+    "enabled": true,
+    "message": "Salut {user} ! Bienvenue sur School Horizon. Prêt(e) pour une aventure scolaire ?<:Color_Soutien:1482528495543386324>",
+    "embed": true
+  }
+}
